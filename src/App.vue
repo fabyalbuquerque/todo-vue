@@ -9,7 +9,7 @@
     tarefaTemp: '',
     tarefas: [
       {
-        titulo: '',
+        titulo: 'Estudar ES6',
         finalizada: false,
       },
       {
